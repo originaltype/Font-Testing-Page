@@ -51,11 +51,11 @@ $(document).ready(function(){
 	
 	  <!-- Headlines (Content injected via constants.js) -->
 	  <div id="headlines">
-		<div style="white-space: nowrap; overflow: hidden; width: 960px;"></div>
+		<div style="white-space: nowrap; overflow: hidden; width: 1440px;"></div>
 	  </div>
 	  
 	  <!-- Text (Content injected via Javascript) -->
-	  <div id="text" style="width: 960px;">
+	  <div id="text" style="width: 1440px;">
 			<div class="textsettingCol1"></div>
 			<div class="textsettingCol2"></div>
 	  </div>
